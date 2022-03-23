@@ -1,0 +1,51 @@
+.caja1{
+    background-color: rebeccapurple;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 450px;
+
+   
+}
+.caja2{
+    background-color: yellow;
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50px;
+    left: 78px;
+    
+}
+.caja3{
+    background-color: green;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 470px;
+    top: 12px;
+}
+.caja4{
+    background-color: red;
+    width: 100px;
+    height: 100px;
+    position: relative;
+    left: 390px;
+    top: -120px;
+}
+
+footer a{
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: green;
+  color: white;
+  text-align: center;
+  font-family:Franklin Gothic ;
+  
+
+}
+h1{
+font-family: Franklin Gothic;
+text-align: center;
+}
